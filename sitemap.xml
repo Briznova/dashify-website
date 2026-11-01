@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://YOUR-DASHIFY-DOMAIN.example/index.html</loc></url>
   <url><loc>https://YOUR-DASHIFY-DOMAIN.example/platform.html</loc></url>
-  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/modules.html</loc></url>
-  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/workflows.html</loc></url>
   <url><loc>https://YOUR-DASHIFY-DOMAIN.example/implementation.html</loc></url>
   <url><loc>https://YOUR-DASHIFY-DOMAIN.example/pilot.html</loc></url>
   <url><loc>https://YOUR-DASHIFY-DOMAIN.example/pricing.html</loc></url>

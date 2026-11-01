@@ -7,10 +7,8 @@ The `assets/` folder contains original SVG illustrations and the DASHIFY favicon
 
 ## Pages
 - Home (`index.html`)
-- Platform overview (`platform.html`)
-- Modules and roadmap (`modules.html`)
-- Role-based workflows (`workflows.html`)
-- Implementation approach (`implementation.html`)
+- Product (platform, capabilities and module roadmap) (`platform.html`)
+- How it works (school workflows and implementation approach) (`implementation.html`)
 - Early school pilot (`pilot.html`)
 - Pricing approach (`pricing.html`)
 - About (`about.html`)
