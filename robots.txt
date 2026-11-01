@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://YOUR-DASHIFY-DOMAIN.example/sitemap.xml

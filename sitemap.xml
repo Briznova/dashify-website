@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/index.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/platform.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/modules.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/workflows.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/implementation.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/pilot.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/pricing.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/security.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/faq.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/privacy.html</loc></url>
+  <url><loc>https://YOUR-DASHIFY-DOMAIN.example/terms.html</loc></url>
+</urlset>
